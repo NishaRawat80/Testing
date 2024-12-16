@@ -111,6 +111,7 @@ About Area
                         </div>
                     </div>
                 </div>
+		    
                 <div class="col-xl-4 my-5 my-xl-0">
                     <div class="rounded-img1">
                         <img class="w-100" src="assets/img/normal/11663762_20944590.svg" alt="About">
